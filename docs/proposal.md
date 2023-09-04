@@ -12,4 +12,4 @@ This project will look at the book following several young explorers of the Amer
 
 ## Proposed Layout
 
-  
+![propsed layout](project_outline.png)
