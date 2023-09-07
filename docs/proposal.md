@@ -6,7 +6,7 @@ This project will look at the book following several young explorers of the Amer
 
 [The Young Volcano Explorers](https://www.gutenberg.org/cache/epub/71552/pg71552-images.html)
 
-## Items of Interest 
+## Chapter 
 
 * The Defense of January Jones
 
