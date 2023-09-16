@@ -1,4 +1,6 @@
-# Your project name
-Your given and family name.
+# The Young Volcano Explorers
+Emily Timme
 
-A one-sentence description of your project.
+This project will look at the book following several young explorers of the America's and their journey.
+
+https://emtimme-sqc-project.onrender.com/
