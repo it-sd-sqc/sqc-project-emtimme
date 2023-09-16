@@ -1,0 +1,33 @@
+{
+  "name": "sqc-project-emtimme",
+  "version": "1.0.0",
+  "description": "Your given and family name.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it-sd-sqc/sqc-project-emtimme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/it-sd-sqc/sqc-project-emtimme/issues"
+  },
+  "homepage": "https://github.com/it-sd-sqc/sqc-project-emtimme#readme",
+  "devDependencies": {
+    "html-validate": "^8.4.0",
+    "standard": "^17.1.0",
+    "stylelint": "^15.10.3",
+    "stylelint-config-standard": "^34.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
